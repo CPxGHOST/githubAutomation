@@ -1,0 +1,1 @@
+node "githubautomation.js" "automatedrepo" "helloworld.js"
